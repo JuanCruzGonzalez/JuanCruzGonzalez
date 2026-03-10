@@ -1,16 +1,22 @@
-## Hi there 👋
+# Juan Cruz Gonzalez
 
-<!--
-**JuanCruzGonzalez/JuanCruzGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend / Full-Stack Developer
 
-Here are some ideas to get you started:
+I am a developer focused on building modern web applications using React, TypeScript and Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+Frontend
+React • TypeScript • JavaScript • HTML • CSS
+
+Backend
+Node.js • Supabase • PostgreSQL • REST APIs
+
+Tools
+Git • GitHub • VS Code
+
+## Projects
+
+iPhonePage  
+React e-commerce web application  
+https://github.com/JuanCruzGonzalez/IphonePage
